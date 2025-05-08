@@ -31,7 +31,7 @@ Installation ⚙️
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/otp-server.git
+git clone (https://github.com/Kannan-hub-byte/SMS-bomber-python)
 cd otp-server
 2. Install Dependencies
 bash
